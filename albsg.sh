@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # ┌────────────────────────────────────────────────────────────────────┐
-# │ Script Name: albargs.sh                                            │
+# │ Script Name: albsg.sh                                              │
 # │ Description: This script let you manage ALBs security groups.      │
 # │ Author: Omar XS                                                    │
 # │ Date: 2023-06-24                                                   │
